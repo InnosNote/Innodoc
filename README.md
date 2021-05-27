@@ -1,3 +1,5 @@
+![image](https://github.com/InnosNotes/InnosNotes-docs/blob/main/main-Component-ps.png)
+
 # InnosNotes-docs
 
 > This is the official home page for Innos Note.
@@ -11,29 +13,33 @@ We believe there should be an alternative to traditional knowledge management an
 ## 🤔 How's Innos Note different?
 It includes 5 features that make idea management more intuitive:
 
+
 ### Feature 1 Parallel pages
 Use parallel pages to navigate multiple content so you can analyze and ideate better.  
+![image](https://github.com/InnosNotes/InnosNotes-docs/blob/main/parallel-pages.png)
 
 
 ### Feature 2 Content blocks
 Manage content components with flexible styles and settings. 
-Unable to paste this block.
+![image](https://github.com/InnosNotes/InnosNotes-docs/blob/main/logo-pages.png)
+
 
 ### Feature 3 Playground
 Express your originality by programming gadgets using our Playground feature.
-Unable to paste this block.
+![image](https://github.com/InnosNotes/InnosNotes-docs/blob/main/Playground.png)
 
 ### Feature 4 Knowledge graph
 Make sense of knowledge networks by visualizing, searching, and connecting ideas. 
-Unable to paste this block.
+![image](https://github.com/InnosNotes/InnosNotes-docs/blob/main/introduction.png)
+
 
 ### Feature 5 Auto sugguestions
 Find the most relevant reference materials with the help of auto suggestions.
-Unable to paste this block.
+![image](https://github.com/InnosNotes/InnosNotes-docs/blob/main/link.png)
 
 ## 😍 What can Innos Note do for you?
 The possibilities are endless. Here are some examples for you to get inspired:
 
-📖 Book Recommendations By Experts
-✌️All-Remote Work of Gitlab
-🌏 When East Meets South Africa
+- [📖 Book Recommendations By Experts](https://innos.io/space/7ecfa27d-bda6-c188-4418-f4189244b425?ps=7ecfa27d-bda6-c188-4418-f4189244b425&s=github)
+- [✌️All-Remote Work of Gitlab](https://innos.io/space/20bbddec-49c1-854b-bee3-bf735d19c765?ps=20bbddec-49c1-854b-bee3-bf735d19c765&s=github)
+- [🌏 When East Meets South Africa](https://innos.io/space/bf1a5153-1918-1551-5d87-b2734968591c?p=bf1a5153-1918-1551-5d87-b2734968591c&s=github)
